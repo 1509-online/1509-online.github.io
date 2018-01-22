@@ -1,7 +1,6 @@
 {
   "src/my-app.html": {},
   "src/home-view.html": {},
-  "src/my-view2.html": {},
-  "src/my-view3.html": {},
-  "src/my-view404.html": {}
+  "src/category-view.html": {},
+  "src/404-view.html": {}
 }
